@@ -1,0 +1,3 @@
+{Name : =Praveenraj Sivaraja, Gender : =M, Age : =27, Created By : =Admin, EmpID : =0, Onboarded On : =25/06/2024 19:21:03, Role : =Admin, User Name : =Admin, DOB : =22/10/1997, Password : =Admin}
+{Name : =Suruthi, Gender : =F, Age : =25, Created By : =Admin, EmpID : =1, Onboarded On : =25/06/2024 19:21:28, Role : =QA, User Name : =susr@pr.com, DOB : =06/06/1999, Password : =123}
+{Name : =Suruthi, Gender : =F, Age : =25, Created By : =Admin, EmpID : =1, Onboarded On : =25/06/2024 19:21:28, Role : =QA, User Name : =susr@pr.com, DOB : =06/06/1999, Password : =123}
